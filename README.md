@@ -1,3 +1,12 @@
+I COPIED THIS INSTRUCTIONS !!!
+I ONLY MODIFIED THE PRINTER.CFG
+The instructions below are the same for the Qidi IMateS but there is no reset Switch!
+Here you can simply solder a wire and short to GND and you have a reset switch to Flash it as often as you want (Short it and press connect in stm32cube and release the short as fast as possible).
+You find the resistor near the Wifi module
+
+![Resetswitch](https://github.com/MrWeedx3/Qidi-ImateS-Klipper/assets/40147743/2feb3d5b-88b9-4641-9d74-efcd6e9ee4a6)
+
+
 # Introduction
 
 Links etc. were valid on 2021-11-17
